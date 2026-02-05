@@ -1,2 +1,2 @@
 # flamedarkness-browser
-Browser using WebView2. Built in C++ with the purpose of providing privacy and security through knowability. Requires WebView2 and nuget to compile.
+A Chromium browser based on WebView2. The browser is built using C++, its purpose is to provide privacy and security through knowability. I suggest downloading WebView2 Evergreen for editing the source code.
