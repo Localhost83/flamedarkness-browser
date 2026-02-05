@@ -1,5 +1,0 @@
-Compiler: Win32-MSVC.
-
-Command I execute:
-
-cmd.exe /c '"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat" && cl.exe /nologo /W4 /EHsc /std:c++17 /MT "c:\Users\itali\Downloads\FlameDarkness Browser\flamedarkness_browser.cpp" /I "c:\Users\itali\Downloads\FlameDarkness Browser\microsoft.web.webview2.1.0.3650-prerelease\build\native\include" /Fe:"c:\Users\itali\Downloads\FlameDarkness Browser\flamedarkness_browser.exe" /link user32.lib gdi32.lib comctl32.lib shell32.lib WebView2Loader.dll.lib /LIBPATH:"c:\Users\itali\Downloads\FlameDarkness Browser\microsoft.web.webview2.1.0.3650-prerelease\build\native\x64" /MANIFEST:EMBED /SUBSYSTEM:WINDOWS'
