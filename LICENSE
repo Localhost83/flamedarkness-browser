@@ -20,4 +20,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Exception for MIT License is made for the files, folders, and archives that have not been created or caused to be created by the author of the FlameDarkness Browser project. Files that are not included in the MIT License of the author of the FlameDarkness Browser project include WebView2Loader.dll.
+Exception for MIT License is made for the files, folders, and archives that have not been created or caused to be created by the author of the FlameDarkness Browser project and those who have rights over the forks. Files that are not included in the MIT License of the author of the FlameDarkness Browser project include WebView2Loader.dll.
